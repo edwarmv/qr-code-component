@@ -1,8 +1,8 @@
 :root {
-  --color-white: hsl(0, 0%, 100%);
-  --color-light-gray: hsl(212, 45%, 89%);
-  --color-grayish-blue: hsl(220, 15%, 55%);
-  --color-dark-blue: hsl(218, 44%, 22%);
+  --color-white: #FFFFFF;
+  --color-gray: #7D889E;
+  --color-light-gray: #D5E1EF;
+  --color-dark-navy: #1F314F;
 }
 
 html,
